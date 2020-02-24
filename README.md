@@ -13,6 +13,7 @@ This notebook presents a step-by-step solution to the data science competition b
 
 3. Modelling - design a neural network, try various classifiers, model evaluation, ROC curve.
 
-4.Hyperparameter tuning - select the best model with grid search, random search. 
+4. Hyperparameter tuning - select the best model with grid search, random search. 
 
-*Result in the kaggle competition: 0.87072.*
+*Result on the validation set: 0.9297.*
+*Result on 50% of the data in the kaggle competition: 0.87072.*

@@ -15,5 +15,6 @@ This notebook presents a step-by-step solution to the data science competition b
 
 4. Hyperparameter tuning - select the best model with grid search, random search. 
 
-*Result on the validation set: 0.9297.*
-*Result on 50% of the data in the kaggle competition: 0.87072.*
+*Accuracy on the validation set: 0.9297.*
+AUC-ROC on the test set: 0.8854289224151952
+*Result on 50% of the test data used in the kaggle competition: 0.87072.*
